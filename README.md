@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0bGdpZWI4ajJzdGJmOXl1bHFhbzZmM2R4Z2JoOTk4Z2xqZDdraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNssW1DvTEXtll108b/giphy.gif" height="180" alt="Coding GIF" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnFjYzVkOWhsZTY3dW05bWI5c3RjY3M5MGdqdjRnMnE4d2EyMjlrNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9az09tlYyYNfq/giphy.gif" height="180" alt="Coding GIF" />
 
 🎯 Frontend Developer | 🎨 UI/UX Designer | 👨‍💻 B.Tech CSE Student (2026)
 Driven by 
