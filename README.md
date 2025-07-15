@@ -8,7 +8,8 @@
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDV0bGdpZWI4ajJzdGJmOXl1bHFhbzZmM2R4Z2JoOTk4Z2xqZDdraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNssW1DvTEXtll108b/giphy.gif" height="180" alt="Coding GIF" />
 
 🎯 Frontend Developer | 🎨 UI/UX Designer | 👨‍💻 B.Tech CSE Student (2026)
-Driven by curiosity and passion, I turn ideas into intuitive digital experiences.
+Driven by 
+curiosity and passion, I turn ideas into intuitive digital experiences.
 
 💡 Currently pursuing Computer Science at Manakula Vinayagar Institute of Technology, I specialize in JavaScript, Java, HTML, CSS, and TailwindCSS to craft responsive and clean interfaces.
 🎨 I design with empathy using Figma and Canva, blending form and function into delightful user interfaces.
