@@ -36,11 +36,9 @@ curiosity and passion, I turn ideas into intuitive digital experiences.
 
 ---
 
-![](https://github-profile-trophy.vercel.app/?username=poovazaki&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=poovazaki&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sam-francis06&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
+</p>
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarii27&show_icons=true&locale=en&layout=compact" alt="sabarii27" /></p>
