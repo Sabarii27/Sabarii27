@@ -36,9 +36,10 @@ curiosity and passion, I turn ideas into intuitive digital experiences.
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sam-francis06&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarii27&label=Profile%20views&color=0e75b6&style=flat" alt="sabarii27" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sabarii27" alt="sabarii27" /></a> </p>
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabarii27&show_icons=true&locale=en&layout=compact" alt="sabarii27" /></p>
