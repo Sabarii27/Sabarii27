@@ -106,7 +106,7 @@ Peer-to-peer encrypted messaging system supporting 3+ concurrent client sessions
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/Sabarinathan-M" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="40" /></a>
+<a href="https://www.linkedin.com/in/sabari27" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="40" /></a>
 <a href="https://instagram.com/smart._.sabari._.27" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="40" /></a>
 <a href="https://www.hackerrank.com/muthusabari2710" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="35" width="40" /></a>
 <a href="https://www.leetcode.com/ygktmuqhq6" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="35" width="40" /></a>
