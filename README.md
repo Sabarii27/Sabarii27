@@ -34,7 +34,7 @@
 - Built responsive **React.js + Bootstrap 5** UI components shipped to a live production codebase
 - Configured **Firebase Authentication & Firestore**, cutting manual auth setup time by ~40%
 - Managed Git-based deployment workflows integrated with **CI/CD** pipelines
-- Collaborated in **Agile/Scrum** sprints — standups, sprint planning, iterative delivery
+- Collaborated in **Agile/Scrum** sprints — standups, sprint planning, iterative delivery.
 
 </td>
 </tr>
