@@ -14,7 +14,7 @@
 
 - 🎓 B.Tech Computer Science & Engineering student at **Manakula Vinayagar Institute of Technology** (2022 – 2026), CGPA 8.15
 - 💻 Full Stack Developer building with **React.js, Node.js, Express.js, Firebase & PostgreSQL**
-- 🎨 UI/UX Designer crafting interfaces with **Figma & Canva**
+- 🎨 UI/UX Designer crafting interfaces with **Figma & Canva **
 - 🛠️ Shipped two production-grade projects — a full e‑commerce platform and an RSA‑encrypted messaging app
 - 🧩 Completed a **Full Stack Development Internship** at *Future Interns*, working in an Agile team with real production code
 - 📚 Currently leveling up in design systems, web accessibility, and Python certifications
