@@ -32,8 +32,6 @@
 
 ## ☕ Featured Java Projects
 
-> 🚧 Both projects below are **currently in progress**. Repository links and details will be updated as they are completed.
-
 ### 🛒 CartNova: E-Commerce Platform
 
 A Java full-stack e-commerce application with a Spring Boot REST backend and a React frontend.
@@ -46,7 +44,7 @@ A Java full-stack e-commerce application with a Spring Boot REST backend and a R
 
 **Stack:** `Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `MySQL` · `Spring Security` · `JWT` · `React` · `Maven` · `JUnit` · `Docker`
 
-[🔗 Repository](https://github.com/sabarii27) *(link to be updated)*
+[🔗 Repository](https://github.com/sabarii27) 
 
 ### 🎟️ SeatSync: Concurrent Ticket Booking System
 
@@ -60,7 +58,7 @@ A booking backend focused on **transactions and concurrency**: seat holds, safe 
 
 **Stack:** `Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `PostgreSQL` · `Spring Security` · `JWT` · `Kafka` · `React` · `Maven` · `JUnit` · `Docker`
 
-[🔗 Repository](https://github.com/sabarii27) *(link to be updated)*
+[🔗 Repository](https://github.com/sabarii27) 
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
 
@@ -85,7 +83,7 @@ A booking backend focused on **transactions and concurrency**: seat holds, safe 
 
 ## 🧰 Tech Stack
 
-### ☕ Java & Backend (primary)
+### ☕ Java & Backend
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgres,mongodb,docker,kafka,linux,postman" />
@@ -100,7 +98,7 @@ A booking backend focused on **transactions and concurrency**: seat holds, safe 
 ![JDBC](https://img.shields.io/badge/JDBC-5382A1?style=flat-square)
 ![Servlets](https://img.shields.io/badge/Servlets_%26_JSP-5382A1?style=flat-square)
 
-### 🌐 Frontend & MERN (secondary)
+### 🌐 Frontend & MERN 
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,bootstrap,nodejs,express,firebase,python" />
