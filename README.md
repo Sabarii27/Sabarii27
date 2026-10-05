@@ -2,7 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There,%20I'm%20Sabarinathan%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Firebase;UI%2FUX+Designer+%7C+B.Tech+CSE+2026;Building+scalable%2C+user-facing+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+Hibernate+%7C+MySQL;Also+skilled+in+React.js+%7C+Node.js+%7C+MERN;B.Tech+CSE+2026+%7C+Open+to+Java+Developer+roles" alt="Typing SVG" />
+
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -12,78 +20,118 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering student at **Manakula Vinayagar Institute of Technology** (2022 – 2026), CGPA 8.15
-- 💻 Full Stack Developer building with **React.js, Node.js, Express.js, Firebase & PostgreSQL**
-- 🎨 UI/UX Designer crafting interfaces with **Figma & Canva **
-- 🛠️ Shipped two production-grade projects — a full e‑commerce platform and an RSA‑encrypted messaging app
-- 🧩 Completed a **Full Stack Development Internship** at *Future Interns*, working in an Agile team with real production code
-- 📚 Currently leveling up in design systems, web accessibility, and Python certifications
+- ☕ **Java Developer (fresher)** focused on **backend and full-stack development** with **Java, Spring Boot, REST APIs, Spring Data JPA, Hibernate and SQL**
+- 🎓 B.Tech Computer Science & Engineering at **Manakula Vinayagar Institute of Technology** (2022 – 2026)
+- 🏢 Completed the **Java Full Stack Developer Trainee** program with **Capgemini Technology Services & TNS India Foundation** (2025 – 2026)
+- 🔐 Comfortable with **Spring Security + JWT** authentication, role-based access, **JUnit** testing, **Maven**, **Docker** and **Git/GitHub**
+- 🌐 Full-stack range: I also build with **React.js, Node.js, Express.js and Firebase** (MERN-style apps), but **Java is my main focus**
+- 🧠 Strong in **OOP and Data Structures & Algorithms**; I practice on LeetCode, HackerRank and GeeksforGeeks
 - 📫 Reach me at **muthusabari2710@gmail.com**
+
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
+
+## ☕ Featured Java Projects
+
+> 🚧 Both projects below are **currently in progress**. Repository links and details will be updated as they are completed.
+
+### 🛒 CartNova: E-Commerce Platform
+
+A Java full-stack e-commerce application with a Spring Boot REST backend and a React frontend.
+
+- User registration and login with **JWT authentication** and **role-based access** (Admin / User)
+- Product management, search/filtering, shopping cart, order placement, order history and order status
+- Admin product and inventory management
+- Relational **MySQL** schema with **Spring Data JPA / Hibernate**, request validation and global exception handling
+- **JUnit** testing and **Docker** containerization
+
+**Stack:** `Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `MySQL` · `Spring Security` · `JWT` · `React` · `Maven` · `JUnit` · `Docker`
+
+[🔗 Repository](https://github.com/sabarii27) *(link to be updated)*
+
+### 🎟️ SeatSync: Concurrent Ticket Booking System
+
+A booking backend focused on **transactions and concurrency**: seat holds, safe confirmation and cancellation.
+
+- REST APIs for movie/event listings, show timings, seat availability, seat selection, booking confirmation, history and cancellation
+- **Temporary seat holds** with transaction management and database locking in **PostgreSQL** to prevent double-booking of the same seat
+- **Kafka** events for booking confirmation and cancellation
+- **Spring Security + JWT** authentication, **JPA / Hibernate** relationships, exception handling
+- **JUnit** testing and **Docker** containerization
+
+**Stack:** `Java` · `Spring Boot` · `Spring MVC` · `Spring Data JPA` · `Hibernate` · `PostgreSQL` · `Spring Security` · `JWT` · `Kafka` · `React` · `Maven` · `JUnit` · `Docker`
+
+[🔗 Repository](https://github.com/sabarii27) *(link to be updated)*
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="100%">
+**Java Full Stack Developer Trainee** · *Capgemini Technology Services & TNS India Foundation*
+`2025 – 2026` · Campus to Technical Careers Training Program (structured training)
 
-**Full Stack Development Intern** · *Future Interns*  
+- Hands-on training in **Core Java, Java 8, OOP, Spring Framework 5.0, Spring Boot and Hibernate ORM**
+- Practiced **RESTful API** integration and **SQL** database operations
+- Built frontend interfaces using **React, TypeScript, JavaScript, HTML5 and CSS3** in full-stack exercises
+- Team-based exercises simulating **Agile/Scrum** workflows with **Git and GitHub**
+
+**Full Stack Development Intern** · *Future Interns*
 `Sep 2025 – Nov 2025`
 
-- Built responsive **React.js + Bootstrap 5** UI components shipped to a live production codebase
-- Configured **Firebase Authentication & Firestore**, cutting manual auth setup time by ~40%
-- Managed Git-based deployment workflows integrated with **CI/CD** pipelines
-- Collaborated in **Agile/Scrum** sprints — standups, sprint planning, iterative delivery.
-
-</td>
-</tr>
-</table>
+- Built responsive **React.js + Bootstrap 5** UI components
+- Configured **Firebase Authentication and Firestore**
+- Worked with Git-based workflows in **Agile/Scrum** sprints
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
 
-## 🛠️ Featured Projects
+## 🧰 Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 Organic Groceries E-Commerce
-Responsive multi-page e-commerce app with a 50+ SKU catalog, dynamic cart, and checkout simulation.
-
-- Firebase Authentication + Firestore for real-time order persistence
-- Role-based access control & secure session management
-- Deployed on Vercel — sub-2s page load
-
-**Stack:** React.js · Bootstrap 5 · Firebase · Vercel
-
-[🔗 Repository](https://github.com/sabarii27) — *update with actual repo link*
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Secure Real-Time Messaging App
-Peer-to-peer encrypted messaging system supporting 3+ concurrent client sessions over MQTT.
-
-- End-to-end **RSA-2048 encryption** with dynamic key generation, no third-party crypto libs
-- Tkinter GUI with key management & persistent chat history
-- Low-latency real-time communication
-
-**Stack:** Python · RSA Encryption · MQTT · Tkinter
-
-[🔗 Repository](https://github.com/sabarii27) — *update with actual repo link*
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
-
-## 🧰 Languages & Tools
+### ☕ Java & Backend (primary)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,react,html,css,bootstrap,nodejs,express,firebase,postgres,mongodb,git,github,figma,vscode,linux,vercel" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,postgres,mongodb,docker,kafka,linux,postman" />
 </p>
+
+![JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-0A66C2?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-5382A1?style=flat-square)
+![Servlets](https://img.shields.io/badge/Servlets_%26_JSP-5382A1?style=flat-square)
+
+### 🌐 Frontend & MERN (secondary)
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,react,angular,html,css,bootstrap,nodejs,express,firebase,python" />
+</p>
+
+### 🛠️ Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,vercel" />
+</p>
+
+### 📚 Currently Learning / Exploring
+
+`OAuth2` · `Microservices` · `Log4j` · `Cloud Deployment` · `Spring AI` · `Ollama`
+
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
+
+## 🎓 Certifications
+
+- Java Full Stack Development, Capgemini Technology Services & TNS India Foundation (Sep 2025)
+- JavaScript, Information Technology Specialist Certification (Mar 2024)
+- CCNA: Switching, Routing & Wireless Essentials, Cisco Networking Academy (Jun 2025)
+
+<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
+
+## 🌐 Other Projects (MERN / Python)
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Organic Groceries E-Commerce** | Responsive multi-page e-commerce app with product catalog, dynamic cart and checkout simulation, using Firebase Authentication and Firestore | React.js · Bootstrap 5 · Firebase · Vercel |
+| **Secure Real-Time Messaging App** | Peer-to-peer encrypted messaging over MQTT supporting 3+ concurrent client sessions, with RSA-2048 encryption and a Tkinter GUI | Python · RSA · MQTT · Tkinter |
 
 <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/svg/Bottom.svg" width="100%">
 
